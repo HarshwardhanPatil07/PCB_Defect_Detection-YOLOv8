@@ -11,4 +11,4 @@ For Dataset here I have used Roboflow uploaded dataset
 
 # Training
 Use YOLOv8 to train your model on the annotated dataset.
-<a href="">Google Collab Link</a> is provided for the same. Evaluate the model's performance using metrics such as precision, recall, and mean average precision (mAP).
+<a href="https://colab.research.google.com/drive/1shdXGWP7YIF5FMhe3j6DJqxyTw_9E22Z?usp=drive_link">Google Collab Link</a> is provided for the same. Evaluate the model's performance using metrics such as precision, recall, and mean average precision (mAP).
